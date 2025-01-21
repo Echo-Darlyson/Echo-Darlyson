@@ -34,7 +34,7 @@ Me chamo Darlyson, atualmente trabalho com Suporte em TI, estou no cargo de Supo
 - [📖 Lê Agora](https://github.com/Echo-Darlyson/le-agora): Aplicativo de uma biblioteca digital de livros sob domínio público para Android e iOS desenvolvido com o framework React Native. Projeto extensionista para a disciplina de Programação para Dispositivos Móveis em Android da instituição de ensino superior Estácio de Sá.
 - [📝 To Do List](https://github.com/Echo-Darlyson/todo-list-web-page): Projeto simples de uma página web "To Do List" desenvolvido para aplicar o conhecimento adquirido do framework Laravel e das operações de CRUD.
 
----
+<br>
 
 ## 🌐 Conecte-se comigo!  
 
