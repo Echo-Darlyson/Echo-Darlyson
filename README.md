@@ -39,5 +39,3 @@ Me chamo Darlyson, atualmente trabalho com Suporte em TI, estou no cargo de Supo
 ## 🌐 Conecte-se comigo!  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/darlyson-rangel-58a8b8167)
-
----
