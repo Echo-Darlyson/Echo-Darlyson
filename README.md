@@ -1,4 +1,4 @@
-# Beleza? Bem-vindo ao meu perfil no GitHu
+# Beleza? Bem-vindo ao meu perfil no GitHub
 
 Me chamo Darlyson, atualmente trabalho com Suporte em TI, estou no cargo de Suporte N2, sou um entusiasta de tecnologia e estudante de programação, pois pretendo migrar para a área de desenvolvimento. Atualmente possuo maior domínio sobre a linguagem Python e o framework para desenvolvimento mobile, React Native. 🚀
 
